@@ -2,4 +2,4 @@
 
 UI clonning for educational purposes ONLY!!
 
-Link: instaclonefeed-hariseldon1993.netlify.app
+Link: https://instaclonefeed-hariseldon1993.netlify.app/
